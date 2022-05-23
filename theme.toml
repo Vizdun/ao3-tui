@@ -1,0 +1,13 @@
+shadow = false
+borders = "none"
+
+[colors]
+background = "default"
+view       = "default"
+primary   = "default"
+secondary = "default"
+tertiary  = "default"
+title_primary   = "default"
+title_secondary = "default"
+highlight          = "default"
+highlight_inactive = "default"
